@@ -1,6 +1,6 @@
 # LingoReup — bản phát hành
 
-**LingoReup** là ứng dụng máy tính dùng AI để bản địa hoá video, chạy trên **macOS** (Apple Silicon và Intel, macOS 11+) và **Windows 10/11 64-bit**. App tải video từ YouTube, TikTok, Douyin, Bilibili, bóc lời thành phụ đề, dịch theo ngữ cảnh sang hơn 30 ngôn ngữ, lồng tiếng hoặc thuyết minh bằng giọng AI, che chữ cũ rồi xuất MP4 hoặc SRT/VTT — từng video hoặc hàng loạt.
+**LingoReup** là ứng dụng máy tính dùng AI để bản địa hoá video, chạy trên **macOS** (Apple Silicon và Intel, macOS 12+) và **Windows 10/11 64-bit**. App tải video từ YouTube, TikTok, Douyin, Bilibili, bóc lời thành phụ đề, dịch theo ngữ cảnh sang hơn 30 ngôn ngữ, lồng tiếng hoặc thuyết minh bằng giọng AI, che chữ cũ rồi xuất MP4 hoặc SRT/VTT — từng video hoặc hàng loạt.
 
 - Trang chủ: https://lingoreup.com
 - Tải app: https://lingoreup.com/vi/download
